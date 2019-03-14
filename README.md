@@ -1,5 +1,4 @@
-# foir
-Freedom of Information Requests in the Region of Waterloo
+# Freedom of Information Requests in the Region of Waterloo
 The Waterloo Region strives to be open, transparent and accountable to citizens. Through a number of projects and initiatives, the Region is empowering citizens to become more engaged and to access government information. https://www.regionofwaterloo.ca/en/regional-government/open-government.aspx
 
 One of those initiatives is Open Data. With this, the Region shares its data for everyone to use and republish with few restrictions. The data is provided in machine-readable format.
