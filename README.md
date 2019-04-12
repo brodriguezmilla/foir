@@ -11,5 +11,3 @@ Towards the end we test and compare some machine learning (ML) models, including
 
 So let's find what this dataset holds as there is always value in data! And as a bonus, let's see if we have better "luck" using machine learning to predict the outcome of a request based on the previously made decisions.
 
-
-
