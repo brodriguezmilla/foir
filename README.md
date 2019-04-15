@@ -33,7 +33,7 @@ There is a lot of material in the notebook. It is better is we give you a short 
     * Let's take six of these frequent phrases and find if there is any correlation with the decision taken.
     * Summary of request statistics. With how much text are we working? How long are the requests before and after tokenization? (Spoiler alert: seven tokens is the median per request. Ouch!)
     * Part-of-Speech (POS) tagging of the requests. Nouns, verbs?
-    * Topic Modelling
+    * Topic Modeling
         * Here with do LSA and LDA Analysis using Bokeh, scikit-learn, and t-SNE.
         * We also try LDA Analysis using Gensim and pyLDAvis.
 - Machine Learning (ML)
