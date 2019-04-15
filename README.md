@@ -5,7 +5,7 @@ Searching the Region's Open Data Portal, one can find the Freedom of Information
 
 In this repository, you will find a jupyter notebook that does a thorough job at describing the FOIR set. Specially from the side of descriptive statistics, visualization, natural language processing (NLP), and topic modeling (LSA, LDA, LSI).
 
-You will also find the file foir_all_figures.pdf that encompases the figures and images produced in the notebook, a.k.a., all the neat results.
+You will also find the file foir_all_figures.pdf that encompasses the figures and images produced in the notebook, a.k.a., all the neat results.
 
 Towards the end of the notebook, we test and compare some machine learning (ML) models, including the use of pipelines and gridsearch, albeit we don't do a deep analysis. My collegue Scott Jones has already looked at this set and found it is too small to provide reliable ML results. He opted to adding the FOIR datasets from Toronto and nearby regions. https://towardsdatascience.com/text-classification-of-freedom-of-information-requests-part-i-8a75d1e7ea02
 
