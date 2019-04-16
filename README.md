@@ -1,5 +1,5 @@
 # Freedom of Information Requests in the Region of Waterloo
-One of the Region of Waterloo initiatives is [Open Data] (https://rowopendata-rmw.opendata.arcgis.com/). With it, the Region strives to be open, transparent, and accountable to citizens. It shares its data for everyone to use and republish with few restrictions. The data is provided in machine-readable format.
+One of the Region of Waterloo initiatives is [Open Data](https://rowopendata-rmw.opendata.arcgis.com/). With it, the Region strives to be open, transparent, and accountable to citizens. It shares its data for everyone to use and republish with few restrictions. The data is provided in machine-readable format.
 
 Searching the Region's Open Data Portal, one can find the Freedom of Information Requests (FOIR) data set. This data set spans 18 years (1999-2016).
 
