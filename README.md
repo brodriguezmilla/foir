@@ -7,7 +7,7 @@ In this repository, you will find a jupyter notebook that does a thorough job at
 
 You will also find a [file](https://github.com/brodriguezmilla/foir/blob/master/foir_all_figures.pdf) that encompasses the figures and images produced in the notebook, a.k.a., all the neat results.
 
-Towards the end of the notebook, we test and compare some machine learning (ML) models, including the use of pipelines and GridSearchCV, albeit we don't do a deep analysis. My collegue Scott Jones has already looked at this set and found it is too small to provide reliable ML results. He opted to adding the FOIR datasets from Toronto and nearby regions. https://towardsdatascience.com/text-classification-of-freedom-of-information-requests-part-i-8a75d1e7ea02
+Towards the end of the notebook, we test and compare some machine learning (ML) models, including the use of pipelines and GridSearchCV, albeit we don't do a deep analysis. My collegue Scott Jones has already looked at this set and found it is too small to provide reliable ML results. He opted to adding the FOIR datasets from Toronto and nearby regions. This Towards Data Science article can be found [here](https://towardsdatascience.com/text-classification-of-freedom-of-information-requests-part-i-8a75d1e7ea02).
 
 So let's find what this dataset holds as there is always value in data! And as a bonus, let's see if we have better "luck" using machine learning to predict the outcome of a request based on the previously made decisions.
 
