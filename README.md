@@ -27,7 +27,7 @@ There is a lot of material in the notebook. It is better is we give you a short 
         * For the main types of decisions (All information disclosed, Information disclosed in part, No information disclosed), how are they split among the sources?
 - Natural Language Processing (NLP) - Analyzing the summary of request
     * Before analyzing any text with NLP, one needs to go over some steps, which can vary depending on the goal:
-        * Parse text, tokenize it, remove symbols, remove stopwords, remove punctuation, convert tokens to lowercase, remove short words, and lemmatize the tokens. We use both NLTK and spaCy.
+        * Parse text, tokenize it, remove symbols, remove stop words, remove punctuation, convert tokens to lowercase, remove short words, and lemmatize the tokens. We use both NLTK and spaCy.
     * n-grams. We take a look at the most frequent unigrams, bigrams, trigrams, and n-grams (4-5).
     * WordClouds. They are not only pretty, they are also useful. Why is a word/phrase so important!?
     * Let's take six of these frequent phrases and find if there is any correlation with the decision taken.
