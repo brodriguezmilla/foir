@@ -6,7 +6,7 @@ You can find the Towards Data Science article of this repo at https://towardsdat
 
 One of the Region of Waterloo initiatives is [Open Data](https://rowopendata-rmw.opendata.arcgis.com/). With it, the Region strives to be open, transparent, and accountable to citizens. It shares its data for everyone to use and republish with few restrictions. The data is provided in machine-readable format.
 
-Searching the Region's Open Data Portal, one can find the Freedom of Information Requests (FOIR) data set. This data set spans 18 years (1999-2016).
+Searching the Region's Open Data Portal, one can find the Freedom of Information Requests (FOIR) data set. This data set spans 26 years (1991-2016).
 
 In this repository, you will find a jupyter notebook that does a thorough job at describing the FOIR set. Specially from the side of descriptive statistics, visualization, natural language processing (NLP), and topic modeling (LSA, LDA, LSI).
 
@@ -25,7 +25,7 @@ There is a lot of material in the notebook. It is better is we give you a short 
     * We have five main columns: one is the request ID, three columns have categorical data, and one has the summary of the request itself (plain text).
     * Of those with categorical data, decision made, source (a.k.a., requester), and request type, can we somehow reduce the number of categories (spoiler alert: yes).
 - Descriptive Analysis
-    * There are about 11 types of decisions for six different types of sources.
+    * There are 12 types of decisions for six different types of sources.
         * How many requests per type of decision?
         * How are the decisions split based on the source? Are some sources more "lucky" than others? Spoiler alert: yes, though we don't know the reason.
         * How is each decision split among the sources? 
